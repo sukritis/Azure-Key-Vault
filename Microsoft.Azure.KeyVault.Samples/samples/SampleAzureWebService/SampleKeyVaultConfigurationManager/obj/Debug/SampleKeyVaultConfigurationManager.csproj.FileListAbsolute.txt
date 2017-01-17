@@ -1,0 +1,13 @@
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\SampleKeyVaultConfigurationManager.dll.config
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\SampleKeyVaultConfigurationManager.dll
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\SampleKeyVaultConfigurationManager.pdb
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\Microsoft.Azure.KeyVault.dll
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\Microsoft.Azure.KeyVault.WebKey.dll
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\Microsoft.Rest.ClientRuntime.Azure.dll
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\Microsoft.Rest.ClientRuntime.dll
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\Newtonsoft.Json.dll
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\bin\Debug\Newtonsoft.Json.xml
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\obj\Debug\SampleKeyVaultConfigurationManager.dll
+C:\Microsoft.Azure.KeyVault.Samples-2016.11.22 (1)\Microsoft.Azure.KeyVault.Samples\samples\SampleAzureWebService\SampleKeyVaultConfigurationManager\obj\Debug\SampleKeyVaultConfigurationManager.pdb
